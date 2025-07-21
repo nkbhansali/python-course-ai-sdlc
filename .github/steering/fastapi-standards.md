@@ -9,7 +9,7 @@
 
 ## Database Standards
 
-- Use SQLAlchemy ORM with declarative base
+- Use SQLAlchemy ORM with declarative base.
 - Include proper indexing on frequently queried fields
 - Use proper foreign key relationships
 - Include created_at/updated_at timestamps where appropriate
