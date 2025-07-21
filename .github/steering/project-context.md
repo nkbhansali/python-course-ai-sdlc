@@ -24,7 +24,7 @@ This is a FastAPI-based flight management system that provides REST endpoints fo
 - `database.py`: Database configuration and initialization
 - `models.py`: SQLAlchemy models (Flight model)
 - `routers/flights.py`: Flight-related API endpoints
-- `tests/test_main.py`: API endpoint tests
+- `tests/test_main.py`: API endpoint test.
 
 ## Database Schema
 
